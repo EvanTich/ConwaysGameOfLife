@@ -1,0 +1,9 @@
+[Bb]in/
+Content/bin
+Content/obj
+obj/
+x64/
+x86/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
